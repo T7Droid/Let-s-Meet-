@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "599529709137",
+    "project_id": "t7-video-conferencias",
+    "storage_bucket": "t7-video-conferencias.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599529709137:android:a87de717b3ce6c072b2270",
+        "android_client_info": {
+          "package_name": "com.t7droid.letsmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599529709137-fpmej9vgu63ant7gplv65mc4oo7o7eou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.t7droid.letsmeet",
+            "certificate_hash": "55d3eee51de6a35a61ba178c9ba8cccfb08885e9"
+          }
+        },
+        {
+          "client_id": "599529709137-elegrdcepeea4fcccln68fa2996a2v47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjk5P1c1EL2vjIIOygqrv7ZPvNofIJ-8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599529709137-elegrdcepeea4fcccln68fa2996a2v47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

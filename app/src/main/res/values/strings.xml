@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">VideoConferencia</string>
+    <string name="bem_vindo_a">Bem-vindo ao</string>
+    <string name="let_s_meet">T7 Reuniões e Conferências</string>
+    <string name="entre_na_sua_conta">Entre na sua conta</string>
+    <string name="email">Email</string>
+    <string name="voc_gmail_com">você@gmail.com</string>
+    <string name="senha">Senha</string>
+    <string name="password_hint">• • • • • •</string>
+    <string name="sign_in">Entrar</string>
+    <string name="n_o_tem_uma_conta">Não tem uma conta?</string>
+    <string name="sign_up">Cadastrar</string>
+    <string name="n_s_precisamos_de_alguns_detalhes_para_criar_a_sua_conta">Nós precisamos de alguns detalhes para criar a sua conta</string>
+    <string name="primeiro_nome">Primeiro nome</string>
+    <string name="jo_o">João</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="confirmar_senha">Confirmar senha</string>
+    <string name="ja_tenho_conta">Já tenho uma conta</string>
+    <string name="sair">Sair</string>
+    <string name="recebendo_chamada_para_reuni_o">Recebendo Convite Para Reunião</string>
+    <string name="enviando_convite_para_reuni_o">Enviando Convite Para Reunião</string>
+</resources>
