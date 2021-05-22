@@ -1,18 +1,6 @@
 package com.t7droid.letsmeet.utilities;
 
-import android.widget.Toast;
-
-import androidx.annotation.NonNull;
-
-import com.t7droid.letsmeet.activities.OutgoingInvitationActivity;
-import com.t7droid.letsmeet.network.ApiClient;
-import com.t7droid.letsmeet.network.ApiService;
-
 import java.util.HashMap;
-
-import retrofit2.Call;
-import retrofit2.Callback;
-import retrofit2.Response;
 
 public class Constants {
 
@@ -49,7 +37,7 @@ public class Constants {
         HashMap<String, String> headers = new HashMap<>();
         headers.put(
                 Constants.REMOTE_MSG_AUTHORIZATION,
-                "key=AAAAi5bBXlE:APA91bGwGjjhUVBoD7vYBesQC4s-RXP9lhzWeSNKjbYUy78vl6c60dVPD0-Ngp7aeLdNPLgh4Oiv9DqWuvu6c8q6ANecrrM0p4e5znap32y5a9EcrOP0M4jijDZvmGlAy7ATcLkf_iDb"
+                "your_apikey_here"
         );
         headers.put(Constants.REMOTE_MSG_CONTENT_TYPE, "application/json");
         return headers;
